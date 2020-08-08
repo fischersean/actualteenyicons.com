@@ -103,6 +103,7 @@ svg {
   visibile: var(--visibile);
   text-align: center;
   color: var(--text-color);
+  letter-spacing: 0px;
   /*text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000,*/
   /*1px 1px 0 #000;*/
 }
