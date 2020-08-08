@@ -15,7 +15,7 @@
       <Showcase v-on:copiedData="copyAlert()"/>
     </div>
 <footer>
-  <p><a href=https://sean-fischer.mit-license.org target="_blank">MIT</a> - <a href=https://sean-fischer.mit-license.org target="_blank">Source</a></p> 
+  <p><a href=https://sean-fischer.mit-license.org target="_blank">MIT</a> - <a href=https://github.com/fischersean/actualteenyicons.com target="_blank">Source</a></p> 
   <p><b>Made with ❤️  by <a href=https://github.com/fischersean target="_blank">Sean Fischer </a> </b></p> 
   <p>This is a joke</p>
 </footer>
